@@ -1,0 +1,264 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+/* main styling */
+html,
+body {
+    font-family: sans-serif;
+} 
+
+a {
+    color: #0d0273;
+    text-decoration: none;  
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+#navbar {
+    background-color: #fff;
+    color: #0d0273;
+    overflow: auto;
+}
+
+#navbar a {
+    color: #0d0273;
+}
+
+#navbar h1 {
+    float: left;
+    list-style: none;
+}
+
+#navbar h1 {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+#navbar ul {
+    float: right;
+    list-style: none;
+}
+
+#navbar ul li {
+    display: inline-block;
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#navbar ul li a {
+    display: inline-block;
+    padding: 25px;
+    
+}
+
+#navbar ul li a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.container {
+    position: fixed;    
+    background-color: #fff;
+    width: 100%;
+    border: solid 1px rgb(193, 190, 190);
+    border-radius: ;
+}
+
+.h11 {
+    color: #0d0273;
+    margin-top: 100px;
+    margin-left: 200px;   
+}
+
+.hh4 {
+    margin-left: 190px;
+    padding: 10px;
+    color: 
+    font-optical-sizing: 10px;
+}
+
+/* ikonka qismi */
+
+.fi {
+    margin-top: 100px;
+    margin-left: 210px;
+    color: #0d0273;
+}
+
+.hh1h {
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.d1 {
+    margin-left: 100px;
+    padding: 5px;
+}
+
+.d1 {
+    color: #333;
+}
+
+.fe {
+    float: right;
+    margin-top: -150px;
+    margin-right: 280px;
+}
+
+.fe {
+    color: #0d0273;
+}
+
+.hhh1 {
+    margin-top: -45px;
+    margin-left: 100px;
+}
+
+.d11 {
+    margin-right: -150px;
+    padding: 5px;
+    margin-top: 
+}
+
+.d11 {
+    color: #333;
+}
+
+.fo {
+    margin-left: ;
+}
+
+.no {
+    color: #0d0273;
+}
+
+.f {
+    float: right;
+    margin-top: -150px;
+    margin-right: 130px;
+}
+
+.f {
+    color: #0d0273;
+}
+
+.hhh11 {
+    margin-left: 100px;
+    margin-top: -40px;
+}
+
+.da1 {
+    padding: 5px;
+    color: #333;
+}
+
+.button {
+    background-color: #0d0273;
+    width: 180px;
+    height: 40px;
+    margin-top: 45px;
+    margin-left: 320px;
+    color: #fff;
+}
+
+.button1 {
+    background-color: #0d0273;
+    color: #fff;
+    width: 130px;
+    height: 45px;
+    margin-top: 63px;
+}
+
+/* oxirgidan bita oldin */
+
+.img-main {
+    background-image: url(img/infinite-loop-02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center 80%;
+    padding: 10px;
+    padding-bottom: 10%;
+}
+
+.img-main {
+    margin-top: 50px;
+}
+
+.testimonials {
+    margin-top: 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.h4 {
+    padding: 5px;
+}
+
+.img {
+    border-radius: 50%;
+    margin-left: 300px;
+    padding: 10px   ;
+}
+
+img {
+    border-radius: 50%;
+    padding: 90px;
+}
+
+.color {
+    color: #fff;
+    margin-top: -50px;
+    margin-left: 300px;
+}
+
+.a4 {
+    padding: 5px;
+}
+
+.aa4 {
+    margin-left: 100px;
+    top: 50px;
+}
+
+.color1 {
+    color: #fff;
+    margin-top: -130px;
+    margin-left: 650px;
+}
+
+.a5 {
+    padding: 5px;
+}
+
+.color2 {
+    color: #fff;
+    float: right;
+    margin-right: 250px;
+    margin-top: -127px;
+}
+
+.a6 {
+    padding: 5px;
+}
+    
+.ikonkalar11 {
+    color: #b4adad;
+}
+
+.ikonkalar11 {
+    margin-left: 620px;
+    margin-top: 150px;
+}
+
+.ikonkalar11 i {
+    padding: 30px;
+}
